@@ -12,24 +12,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Infrastructure-as-Code+%7C+CI%2FCD+Pipelines+%7C+Cloud+Architecture;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Monitoring+%26+Observability+%7C+Site+Reliability" alt="Typing SVG" />
 
 </div>
+
 ---
 
 ## 📊 **GitHub Activity**
 
 <div align="center">
 
-### **Coding Activity**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&include_all_commits=true&custom_title=DevOps+Contributions)
+### **Multi-Device Activity View**
+| Desktop View | Mobile View |
+| :---: | :---: |
+| ![GitHub Desktop Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9) | ![GitHub Mobile Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&hide=prs,issues&count_private=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9) |
 
-### **Contribution Streak**
+### **🌊 Infrastructure Coding Activity**
+<img src="https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg" alt="DevOps Contribution Snake" width="800" />
+
+### **🔥 30-Day Contribution Streak**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117)
 
 ### **🌊 Contribution Snake**
-<!-- This updates daily with your activity -->
-![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/snake-output/snake.svg)
 
-### **Top Technologies**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&exclude_repo=github-readme-stats,junaidtyagi9555)
+### **⚙️ Top DevOps Stack**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&title_color=00D4AA&text_color=c9d1d9&langs_count=6)
 
 </div>
 
