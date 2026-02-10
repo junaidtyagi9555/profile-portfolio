@@ -79,27 +79,6 @@
 
 ---
 
-## 📊 **GitHub DevOps Metrics**
-
-<div align="center">
-
-### **Activity Overview**
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&custom_title=Infrastructure+Code+Activity)
-
-### **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117)
-
-### **Snake Animation**
-<!-- This will show once workflow runs -->
-![Contribution Snake](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/refs/heads/output/github-contribution-grid-snake.svg)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&title_color=00D4AA&bg_color=0d1117&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🚀 **DevOps Projects Showcase**
 
 ### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/k8s-repo)** *(Key Project)*
