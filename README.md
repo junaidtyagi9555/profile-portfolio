@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Junaid Tyagi | DevOps & Cloud Engineer  
+# 👨💻 Junaid Tyagi | DevOps & Cloud Engineer  
 ### Building Scalable, Resilient Infrastructure & Automating Deployment Pipelines
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://junaidtyagi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
 [![Hashnode](https://img.shields.io/badge/📝_Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://junaidtyagi.hashnode.dev/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidtyagi9555@gmail.com)
 
@@ -13,36 +13,40 @@
 
 </div>
 
----
-
 ## 📊 **GitHub Activity**
 
 <div align="center">
 
-### **Multi-Device Activity View**
-| Desktop View | Mobile View |
-| :---: | :---: |
-| ![GitHub Desktop Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9) | ![GitHub Mobile Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&hide=prs,issues&count_private=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9) |
+### **Coding Activity**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&include_all_commits=true&custom_title=DevOps+Contributions)
 
-### **🌊 Infrastructure Coding Activity**
-<img src="https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg" alt="DevOps Contribution Snake" width="800" />
-
-### **🔥 30-Day Contribution Streak**
+### **Contribution Streak**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117)
 
-### **🌊 Contribution Snake**
-![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/snake-output/snake.svg)
+### **🌐 Contribution Snake**
+<!-- This updates daily with your activity -->
+![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg)
 
-### **⚙️ Top DevOps Stack**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&title_color=00D4AA&text_color=c9d1d9&langs_count=6)
+### **Top Technologies**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&exclude_repo=github-readme-stats,junaidtyagi9555)
 
 </div>
 
-### **🌊 Activity Graph**
+### **📈 Activity Graph**
 [![Junaid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidtyagi9555&custom_title=Junaid's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff)](https://github.com/junaidtyagi9555)
+
+### **Multi-Device Activity View**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+| Desktop View | Mobile View |
+| :--- | :--- |
+| ![Desktop Activity](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&layout=compact&hide=prs,issues) | ![Mobile Activity](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&layout=compact&hide=prs,issues&count_private=true) |
+
+</div>
+
 ---
 
-## 🏗️ **DevOps Technical Stack**
+## 🛠️ **DevOps Technical Stack**
 
 <div align="center">
 
@@ -84,9 +88,13 @@
 
 ---
 
-## 🚀 **DevOps Projects Showcase**
+## 🛠️ **DevOps Projects Showcase**
 
-### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/k8s-repo)** *(Key Project)*
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1 1 300px;">
+
+### **☸️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/k8s-repo)** *(Key Project)*
 **Production-grade Kubernetes cluster spanning AWS EKS and GCP GKE with GitOps workflow.**
 - **Challenge**: Needed a resilient, multi-cloud Kubernetes setup for high-availability applications.
 - **Solution**: Provisioned EKS and GKE clusters using Terraform, implemented Cluster Federation with Kubefed, and set up ArgoCD for GitOps deployments.
@@ -94,13 +102,21 @@
 - **Result**: Achieved 99.9% uptime with cross-cloud failover capability. Reduced deployment time by 85% using GitOps practices.
 - **Tech**: `Terraform` `Kubernetes` `AWS EKS` `GCP GKE` `ArgoCD` `Helm`
 
-### **🔁 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/Jenkins-repo)**
+</div>
+
+<div style="flex: 1 1 300px;">
+
+### **🔗 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/Jenkins-repo)**
 **End-to-end CI/CD pipeline with security scanning, testing, and canary deployments.**
 - **Challenge**: Manual deployments were error-prone and lacked consistent quality gates.
 - **Solution**: Built a Jenkins-as-Code pipeline with Dockerized agents, integrating SonarQube, Trivy security scanning, and automated testing.
 - **Features**: Infrastructure testing with Terratest, canary deployments with Flagger, and automated rollback on failure.
 - **Result**: Reduced deployment failures by 92% and enabled multiple daily releases with zero downtime.
 - **Tech**: `Jenkins` `Docker` `Node.js` `Trivy` `Terratest` `Flagger`
+
+</div>
+
+<div style="flex: 1 1 300px;">
 
 ### **📊 [Cloud Monitoring Dashboard](https://github.com/junaidtyagi9555/cloud-monitoring)**
 **Centralized monitoring stack for cloud-native applications with custom alerts.**
@@ -110,6 +126,10 @@
 - **Result**: Reduced MTTR by 65% with proactive alerting and achieved single-pane-of-glass observability.
 - **Tech**: `Prometheus` `Grafana` `Loki` `Thanos` `AWS CloudWatch` `AlertManager`
 
+</div>
+
+<div style="flex: 1 1 300px;">
+
 ### **🛡️ [Secure AWS Landing Zone](https://github.com/junaidtyagi9555/aws-landing-zone)**
 **Compliant AWS multi-account structure with security guardrails and automation.**
 - **Challenge**: Needed secure, isolated environments for development, staging, and production.
@@ -117,6 +137,10 @@
 - **Features**: Automated account vending, cross-account IAM roles, VPC peering, and centralized logging.
 - **Result**: Achieved SOC 2 compliant infrastructure with automated security checks and cost optimization.
 - **Tech**: `AWS Control Tower` `AWS Organizations` `AWS Config` `CloudTrail` `Lambda` `Step Functions`
+
+</div>
+
+<div style="flex: 1 1 300px;">
 
 ### **📦 [Container Registry & Security](https://github.com/junaidtyagi9555/Docker-Projects)**
 **Private container registry with vulnerability scanning and image signing.**
@@ -126,9 +150,13 @@
 - **Result**: Eliminated high/critical vulnerabilities in production containers and established trusted image provenance.
 - **Tech**: `Harbor` `Clair` `Notary` `Cosign` `Trivy` `SPDX`
 
+</div>
+
+</div>
+
 ---
 
-## 📈 **Certifications & Learning Path**
+## 📚 **Certifications & Learning Path**
 
 <div align="center">
 
@@ -156,7 +184,7 @@ I'm actively seeking roles as:
 
 **Open to**: Full-time positions, Contract work, Open-source collaboration
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 [![LinkedIn Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&width=200)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
 [![Schedule Chat](https://img.shields.io/badge/Schedule_a_Chat-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&width=200)](https://cal.com/junaidtyagi)
@@ -168,9 +196,9 @@ I'm actively seeking roles as:
 
 <div align="center">
 
-### 🎯 **"Infrastructure as Code isn't just about automation; it's about reproducibility, reliability, and velocity."**
+### 🚀 **"Infrastructure as Code isn't just about automation; it's about reproducibility, reliability, and velocity."**
 
-⭐ **Thanks for visiting!** Explore my infrastructure projects and let's discuss cloud-native solutions.
+❤️ **Thanks for visiting!** Explore my infrastructure projects and let's discuss cloud-native solutions.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=junaidtyagi9555&color=00D4AA&style=flat-square&label=INFRASTRUCTURE+VIEWS)
 
@@ -201,5 +229,3 @@ home_lab:
     - prometheus: "Metrics Collection"
     - loki: "Log Aggregation"
     - tempo: "Distributed Tracing"
-
-    
