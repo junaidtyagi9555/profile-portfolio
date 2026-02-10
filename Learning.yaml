@@ -1,0 +1,14 @@
+currently_reading:
+  - "Designing Data-Intensive Applications"
+  - "Clean Architecture"
+  - "System Design Interview"
+
+recent_certifications:
+  - "AWS Cloud Practitioner"
+  - "Node.js Advanced Concepts"
+  - "React Performance Optimization"
+
+daily_practice:
+  leetcode_solved: 150+
+  system_design: 2/week
+  code_review: 1/day
