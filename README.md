@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨💻 Junaid Tyagi | DevOps & Cloud Engineer  
+# 🧑‍💻 Junaid Tyagi | DevOps & Cloud Engineer  
 ### Building Scalable, Resilient Infrastructure & Automating Deployment Pipelines
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://junaidtyagi.netlify.app)
@@ -51,7 +51,6 @@
 | **Code Changes**: 5k+ lines | **Issues**: 5+ resolved |
 
 </div>
----
 
 ## 🛠️ **DevOps Technical Stack**
 
