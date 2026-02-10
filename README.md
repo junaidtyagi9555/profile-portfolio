@@ -64,8 +64,8 @@
 | :--- | :--- |
 | <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&hide_title=false&title_color=00D4AA&icon_color=00D4AA&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&custom_title=Infrastructure+Code+Activity" alt="DevOps Stats" /></a> | <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117" /></a> |
 
-| <img src="https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/output/github-contribution-grid-snake.svg" alt="Snake animation" /> |
-| :---: |
+<!-- Snake Animation -->
+![Snake Animation](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 🚀 **DevOps Projects Showcase**
 
-### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/multi-cloud-k8s)** *(Key Project)*
+### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/k8s-repo)** *(Key Project)*
 **Production-grade Kubernetes cluster spanning AWS EKS and GCP GKE with GitOps workflow.**
 - **Challenge**: Needed a resilient, multi-cloud Kubernetes setup for high-availability applications.
 - **Solution**: Provisioned EKS and GKE clusters using Terraform, implemented Cluster Federation with Kubefed, and set up ArgoCD for GitOps deployments.
@@ -81,13 +81,13 @@
 - **Result**: Achieved 99.9% uptime with cross-cloud failover capability. Reduced deployment time by 85% using GitOps practices.
 - **Tech**: `Terraform` `Kubernetes` `AWS EKS` `GCP GKE` `ArgoCD` `Helm`
 
-### **🔁 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/cicd-pipeline)**
+### **🔁 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/Jenkins-repo)**
 **End-to-end CI/CD pipeline with security scanning, testing, and canary deployments.**
 - **Challenge**: Manual deployments were error-prone and lacked consistent quality gates.
 - **Solution**: Built a Jenkins-as-Code pipeline with Dockerized agents, integrating SonarQube, Trivy security scanning, and automated testing.
 - **Features**: Infrastructure testing with Terratest, canary deployments with Flagger, and automated rollback on failure.
 - **Result**: Reduced deployment failures by 92% and enabled multiple daily releases with zero downtime.
-- **Tech**: `Jenkins` `Docker` `SonarQube` `Trivy` `Terratest` `Flagger`
+- **Tech**: `Jenkins` `Docker` `Node.js` `Trivy` `Terratest` `Flagger`
 
 ### **📊 [Cloud Monitoring Dashboard](https://github.com/junaidtyagi9555/cloud-monitoring)**
 **Centralized monitoring stack for cloud-native applications with custom alerts.**
@@ -105,7 +105,7 @@
 - **Result**: Achieved SOC 2 compliant infrastructure with automated security checks and cost optimization.
 - **Tech**: `AWS Control Tower` `AWS Organizations` `AWS Config` `CloudTrail` `Lambda` `Step Functions`
 
-### **📦 [Container Registry & Security](https://github.com/junaidtyagi9555/container-security)**
+### **📦 [Container Registry & Security](https://github.com/junaidtyagi9555/Docker-Projects)**
 **Private container registry with vulnerability scanning and image signing.**
 - **Challenge**: Ensuring container security and compliance in the software supply chain.
 - **Solution**: Set up Harbor registry with Clair vulnerability scanning, Notary for signing, and retention policies.
@@ -157,3 +157,33 @@ home_lab:
     - prometheus: "Metrics Collection"
     - loki: "Log Aggregation"
     - tempo: "Distributed Tracing"
+
+    ## 🤝 **Looking For Opportunities**
+
+I'm actively seeking roles as:
+- **DevOps Engineer**
+- **Site Reliability Engineer (SRE)**
+- **Cloud Infrastructure Engineer**
+- **Platform Engineer**
+
+**Open to**: Full-time positions, Contract work, Open-source collaboration
+
+<div align="center">
+
+[![LinkedIn Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&width=200)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
+[![Schedule Chat](https://img.shields.io/badge/Schedule_a_Chat-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&width=200)](https://cal.com/junaidtyagi)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=200)](mailto:junaidtyagi9555@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **"Infrastructure as Code isn't just about automation; it's about reproducibility, reliability, and velocity."**
+
+⭐ **Thanks for visiting!** Explore my infrastructure projects and let's discuss cloud-native solutions.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=junaidtyagi9555&color=00D4AA&style=flat-square&label=INFRASTRUCTURE+VIEWS)
+
+</div>
