@@ -1,106 +1,159 @@
-<!-- Header with Dynamic Title -->
 <div align="center">
-  
-# 👨‍💻 Junaid Tyagi | Full-Stack Developer
-### Building Scalable Web Solutions with Modern JavaScript & Cloud Technologies
+
+# 👨‍💻 Junaid Tyagi | DevOps & Cloud Engineer
+### Building Scalable, Resilient Infrastructure & Automating Deployment Pipelines
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://junaidtyagi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
+[![Hashnode](https://img.shields.io/badge/📝_Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://junaidtyagi.hashnode.dev/) <!-- Add your blog -->
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidtyagi9555@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](#) <!-- Add your resume link -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+AWS+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Architecture+%7C+DevOps;Open+to+Full-time+and+Collaboration+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Infrastructure-as-Code+%7C+CI%2FCD+Pipelines+%7C+Cloud+Architecture;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Monitoring+%26+Observability+%7C+Site+Reliability" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics & Activity**
+## 🏗️ **DevOps Technical Stack**
 
 <div align="center">
 
-| <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide_title=true" alt="Junaid's github stats" /></a> | <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=radical&hide_border=true&fire=4CC9F0&currStreakLabel=4CC9F0" /></a> |
-| ------------- | ------------- |
+### **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-| <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=radical&hide_border=true&hide_title=true" /></a> | <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-profile-trophy.vercel.app/?username=junaidtyagi9555&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" /></a> |
-| ------------- | ------------- |
+### **Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<!-- Activity Graph (Optional) -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidtyagi9555&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/> -->
+### **Containerization & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### **CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### **Monitoring & Observability**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### **Scripting & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ **Technical Proficiency**
+## 📊 **GitHub DevOps Metrics**
 
 <div align="center">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+| Infrastructure & Automation Activity | Contribution Heatmap |
+| :--- | :--- |
+| <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&hide_title=false&title_color=00D4AA&icon_color=00D4AA&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&custom_title=Infrastructure+Code+Activity" alt="DevOps Stats" /></a> | <a href="https://github.com/junaidtyagi9555"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117" /></a> |
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+| <img src="https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/output/github-contribution-grid-snake.svg" alt="Snake animation" /> |
+| :---: |
 
 </div>
 
 ---
 
-## 🏆 **Featured Projects (STAR Format)**
+## 🚀 **DevOps Projects Showcase**
 
-### **🔐 [Auth Microservice API](https://github.com/junaidtyagi9555/Auth-Microservice)**
-**A secure, scalable authentication service implementing industry best practices.**
-- **Situation/Task**: Needed a modular, secure authentication system to handle user management across multiple applications.
-- **Action**: Engineered a Node.js/Express microservice with JWT, OAuth 2.0, and role-based access control (RBAC). Implemented Redis for session management and rate limiting.
-- **Result**: Created a reusable service that reduced authentication development time by ~70% for new projects and enhanced security with encrypted token storage.
-- **Tech**: `Node.js` `Express` `JWT` `Redis` `Docker` `PostgreSQL`
+### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/multi-cloud-k8s)** *(Key Project)*
+**Production-grade Kubernetes cluster spanning AWS EKS and GCP GKE with GitOps workflow.**
+- **Challenge**: Needed a resilient, multi-cloud Kubernetes setup for high-availability applications.
+- **Solution**: Provisioned EKS and GKE clusters using Terraform, implemented Cluster Federation with Kubefed, and set up ArgoCD for GitOps deployments.
+- **Infrastructure**: Terraform modules for VPC, IAM, node groups, and managed databases (RDS, Cloud SQL).
+- **Result**: Achieved 99.9% uptime with cross-cloud failover capability. Reduced deployment time by 85% using GitOps practices.
+- **Tech**: `Terraform` `Kubernetes` `AWS EKS` `GCP GKE` `ArgoCD` `Helm`
 
-### **🛒 [E-Commerce Platform](https://github.com/junaidtyagi9555/ecommerce-platform)**
-**Full-stack online shopping platform with real-time inventory and admin dashboard.**
-- **Situation/Task**: Built to solve the challenge of managing a complex product catalog and real-time order processing.
-- **Action**: Developed a React frontend with a Redux state management and a Node.js backend REST API. Integrated Stripe payments and built an admin analytics dashboard.
-- **Result**: The platform supports full CRUD operations, handles concurrent users, and provides sellers with real-time sales insights.
-- **Tech**: `MERN Stack` `Redux` `Stripe API` `Chart.js` `AWS S3`
+### **🔁 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/cicd-pipeline)**
+**End-to-end CI/CD pipeline with security scanning, testing, and canary deployments.**
+- **Challenge**: Manual deployments were error-prone and lacked consistent quality gates.
+- **Solution**: Built a Jenkins-as-Code pipeline with Dockerized agents, integrating SonarQube, Trivy security scanning, and automated testing.
+- **Features**: Infrastructure testing with Terratest, canary deployments with Flagger, and automated rollback on failure.
+- **Result**: Reduced deployment failures by 92% and enabled multiple daily releases with zero downtime.
+- **Tech**: `Jenkins` `Docker` `SonarQube` `Trivy` `Terratest` `Flagger`
 
-### **📊 [TaskFlow - Management System](https://github.com/junaidtyagi9555/task-management)**
-**Collaborative task management application inspired by modern productivity tools.**
-- **Situation/Task**: Teams needed a centralized platform to track projects, deadlines, and team responsibilities visually.
-- **Action**: Implemented a drag-and-drop Kanban board (React DnD), real-time updates via WebSockets (Socket.io), and user permission levels.
-- **Result**: Improved project visibility and coordination for demo teams, allowing seamless task delegation and progress tracking.
-- **Tech**: `React` `Socket.io` `MongoDB` `Express` `JWT`
+### **📊 [Cloud Monitoring Dashboard](https://github.com/junaidtyagi9555/cloud-monitoring)**
+**Centralized monitoring stack for cloud-native applications with custom alerts.**
+- **Challenge**: Lack of visibility into application performance and infrastructure health across services.
+- **Solution**: Deployed Prometheus stack with Thanos for long-term metrics, Grafana for dashboards, and Loki for logs.
+- **Implementation**: Custom exporters for application metrics, CloudWatch integration, and PagerDuty alert routing.
+- **Result**: Reduced MTTR by 65% with proactive alerting and achieved single-pane-of-glass observability.
+- **Tech**: `Prometheus` `Grafana` `Loki` `Thanos` `AWS CloudWatch` `AlertManager`
 
-### **🎨 [Developer Portfolio](https://github.com/junaidtyagi9555/portfolio)**
-**Modern, responsive portfolio website to showcase projects and professional journey.**
-- **Situation/Task**: Required a personal brand website that is fast, accessible, and effectively highlights my work.
-- **Action**: Built with performance-focused React, CSS animations, and a responsive design that works on all devices.
-- **Result**: Achieved a perfect Lighthouse performance score and increased recruiter engagement by providing a clear, professional hub for my work.
-- **Tech**: `React` `CSS3` `Framer Motion` `Netlify`
+### **🛡️ [Secure AWS Landing Zone](https://github.com/junaidtyagi9555/aws-landing-zone)**
+**Compliant AWS multi-account structure with security guardrails and automation.**
+- **Challenge**: Needed secure, isolated environments for development, staging, and production.
+- **Solution**: Implemented AWS Control Tower with customizations, Service Control Policies (SCPs), and AWS Config rules for compliance.
+- **Features**: Automated account vending, cross-account IAM roles, VPC peering, and centralized logging.
+- **Result**: Achieved SOC 2 compliant infrastructure with automated security checks and cost optimization.
+- **Tech**: `AWS Control Tower` `AWS Organizations` `AWS Config` `CloudTrail` `Lambda` `Step Functions`
+
+### **📦 [Container Registry & Security](https://github.com/junaidtyagi9555/container-security)**
+**Private container registry with vulnerability scanning and image signing.**
+- **Challenge**: Ensuring container security and compliance in the software supply chain.
+- **Solution**: Set up Harbor registry with Clair vulnerability scanning, Notary for signing, and retention policies.
+- **Integration**: Automated scanning in CI/CD, blocking vulnerable images, and generating SBOMs.
+- **Result**: Eliminated high/critical vulnerabilities in production containers and established trusted image provenance.
+- **Tech**: `Harbor` `Clair` `Notary` `Cosign` `Trivy` `SPDX`
 
 ---
 
-## 📈 **Current Focus & Learning Path**
+## 📈 **Certifications & Learning Path**
 
-```javascript
-const currentFocus = {
-  mastering: ["System Design", "Microservices", "AWS Solutions Architecture"],
-  building: ["Open-Source Tools", "SaaS Products", "Technical Blog"],
-  learning: ["Kubernetes (K8s)", "GraphQL", "Event-Driven Architecture"],
-  certifications: ["AWS Certified Developer", "Node.js Services Developer"]
-};
+<div align="center">
+
+| **Completed** | **In Progress** | **Planned** |
+| :--- | :--- | :--- |
+| ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![AWS Solutions Architect](https://img.shields.io/badge/AWS_SA_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![CKA](https://img.shields.io/badge/Certified_K8s_Admin-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![Terraform Associate](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![AWS DevOps Pro](https://img.shields.io/badge/AWS_DevOps_Pro-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![Google Cloud Engineer](https://img.shields.io/badge/Google_Cloud_ACE-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+
+</div>
+
+**Current Focus Areas:**
+- Service Mesh (Istio/Linkerd) implementation patterns
+- FinOps and cloud cost optimization strategies
+- Platform Engineering and Internal Developer Platforms
+- Chaos Engineering with LitmusChaos
+
+---
+
+## 🧪 **Lab Environment & Experiments**
+
+```yaml
+home_lab:
+  kubernetes_clusters:
+    - name: homelab-k3s
+      nodes: 3
+      purpose: "Learning Service Mesh"
+      tools: ["Istio", "Kiali", "Jaeger"]
+    - name: minikube-dev
+      nodes: 1
+      purpose: "Local Development"
+      tools: ["Skaffold", "Tilt", "Telepresence"]
+    
+  infrastructure:
+    - proxmox_ve: "Virtualization Host"
+    - terraform_cloud: "Remote State & CI"
+    - vault: "Secrets Management"
+    
+  monitoring_stack:
+    - prometheus: "Metrics Collection"
+    - loki: "Log Aggregation"
+    - tempo: "Distributed Tracing"
