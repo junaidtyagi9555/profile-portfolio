@@ -26,7 +26,7 @@
 
 ### **🌊 Contribution Snake**
 <!-- This updates daily with your activity -->
-![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/snake-output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg)
 
 ### **Top Technologies**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&exclude_repo=github-readme-stats,junaidtyagi9555)
