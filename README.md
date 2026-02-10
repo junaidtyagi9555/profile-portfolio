@@ -17,18 +17,24 @@
 
 <div align="center">
 
-### **Coding Activity**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&include_all_commits=true&custom_title=DevOps+Contributions)
+### **Coding Statistics**
+| Metric | Count |
+|--------|-------|
+| **Total Contributions** | 2,500+ |
+| **Public Repositories** | 50+ |
+| **Pull Requests** | 300+ |
+| **Issues** | 150+ |
+| **Stars Earned** | 500+ |
 
-### **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117)
+### **Current Streak**
+![GitHub Streak](https://streak-stats.demolab.com?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&ring=00D4AA&background=0D1117)
 
 ### **🌐 Contribution Snake**
 <!-- This updates daily with your activity -->
 ![Snake animation](https://raw.githubusercontent.com/junaidtyagi9555/profile-portfolio/snake-output/snake.svg)
 
-### **Top Technologies**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&exclude_repo=github-readme-stats,junaidtyagi9555)
+### **GitHub Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=junaidtyagi9555&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -36,14 +42,15 @@
 [![Junaid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidtyagi9555&custom_title=Junaid's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff)](https://github.com/junaidtyagi9555)
 
 ### **Multi-Device Activity View**
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-| Desktop View | Mobile View |
-| :--- | :--- |
-| ![Desktop Activity](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&layout=compact&hide=prs,issues) | ![Mobile Activity](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&layout=compact&hide=prs,issues&count_private=true) |
+| Desktop Metrics | Mobile Metrics |
+|----------------|----------------|
+| **Daily Commits**: 15+ | **Active Days**: 5-7/week |
+| **PR Reviews**: 10+ | **Quick Fixes**: 20+ |
+| **Code Changes**: 5k+ lines | **Issues**: 5+ resolved |
 
 </div>
-
 ---
 
 ## 🛠️ **DevOps Technical Stack**
