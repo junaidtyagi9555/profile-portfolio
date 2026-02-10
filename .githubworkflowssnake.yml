@@ -1,41 +1,34 @@
 name: Generate Snake Animation
 on:
   schedule:
-    # Runs daily at 00:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"  # Runs daily at 12:00 UTC
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    permissions:
+      contents: write
+      
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: junaidtyagi9555
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Optional: Customize the color palette
-          # colors: |
-          #   '#00D4AA'
-          #   '#0d1117'
-          #   '#161b22'
-          #   '#30363d'
-
-      - name: Deploy to Output Branch
+          outputs: snake.svg
+          
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          commit_message: "chore: Update snake animation [skip ci]"
+          publish_dir: .
+          publish_branch: snake-output
+          commit_message: "Update snake animation"
+          keep_files: true
