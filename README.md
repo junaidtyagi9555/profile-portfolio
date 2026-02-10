@@ -1,19 +1,3 @@
-<div align="center">
-
-# 👨‍💻 Junaid Tyagi | DevOps & Cloud Engineer
-### Building Scalable, Resilient Infrastructure & Automating Deployment Pipelines
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://junaidtyagi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-tyagi-8379b5225)
-[![Hashnode](https://img.shields.io/badge/📝_Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://junaidtyagi.hashnode.dev/) <!-- Add your blog -->
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidtyagi9555@gmail.com)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Infrastructure-as-Code+%7C+CI%2FCD+Pipelines+%7C+Cloud+Architecture;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Monitoring+%26+Observability+%7C+Site+Reliability" alt="Typing SVG" />
-
-</div>
-
----
-
 ## 🏗️ **DevOps Technical Stack**
 
 <div align="center">
@@ -26,7 +10,6 @@
 ### **Infrastructure as Code**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### **Containerization & Orchestration**
@@ -38,56 +21,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### **Monitoring & Observability**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-### **Scripting & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
----
-
-## 📊 **GitHub DevOps Metrics**
-
-<div align="center">
-
-### **Activity Overview**
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidtyagi9555&show_icons=true&theme=dark&hide_border=true&title_color=00D4AA&icon_color=00D4AA&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&custom_title=Infrastructure+Code+Activity)
-
-### **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidtyagi9555&theme=dark&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA&background=0d1117)
-
-### **Snake Animation**
-<!-- This will show once workflow runs -->
-![Contribution Snake](https://raw.githubusercontent.com/junaidtyagi9555/junaidtyagi9555/refs/heads/output/github-contribution-grid-snake.svg)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidtyagi9555&layout=compact&theme=dark&hide_border=true&title_color=00D4AA&bg_color=0d1117&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🚀 **DevOps Projects Showcase**
-
-### **☁️ [Multi-Cloud Kubernetes Cluster](https://github.com/junaidtyagi9555/k8s-repo)** *(Key Project)*
-**Production-grade Kubernetes cluster spanning AWS EKS and GCP GKE with GitOps workflow.**
-- **Challenge**: Needed a resilient, multi-cloud Kubernetes setup for high-availability applications.
-- **Solution**: Provisioned EKS and GKE clusters using Terraform, implemented Cluster Federation with Kubefed, and set up ArgoCD for GitOps deployments.
-- **Infrastructure**: Terraform modules for VPC, IAM, node groups, and managed databases (RDS, Cloud SQL).
-- **Result**: Achieved 99.9% uptime with cross-cloud failover capability. Reduced deployment time by 85% using GitOps practices.
-- **Tech**: `Terraform` `Kubernetes` `AWS EKS` `GCP GKE` `ArgoCD` `Helm`
-
-### **🔁 [CI/CD Pipeline as Code](https://github.com/junaidtyagi9555/Jenkins-repo)**
 **End-to-end CI/CD pipeline with security scanning, testing, and canary deployments.**
 - **Challenge**: Manual deployments were error-prone and lacked consistent quality gates.
 - **Solution**: Built a Jenkins-as-Code pipeline with Dockerized agents, integrating SonarQube, Trivy security scanning, and automated testing.
