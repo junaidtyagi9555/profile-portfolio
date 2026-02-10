@@ -133,32 +133,7 @@
 - Chaos Engineering with LitmusChaos
 
 ---
-
-## 🧪 **Lab Environment & Experiments**
-
-```yaml
-home_lab:
-  kubernetes_clusters:
-    - name: homelab-k3s
-      nodes: 3
-      purpose: "Learning Service Mesh"
-      tools: ["Istio", "Kiali", "Jaeger"]
-    - name: minikube-dev
-      nodes: 1
-      purpose: "Local Development"
-      tools: ["Skaffold", "Tilt", "Telepresence"]
-    
-  infrastructure:
-    - proxmox_ve: "Virtualization Host"
-    - terraform_cloud: "Remote State & CI"
-    - vault: "Secrets Management"
-    
-  monitoring_stack:
-    - prometheus: "Metrics Collection"
-    - loki: "Log Aggregation"
-    - tempo: "Distributed Tracing"
-
-    ## 🤝 **Looking For Opportunities**
+## 🤝 **Looking For Opportunities**
 
 I'm actively seeking roles as:
 - **DevOps Engineer**
@@ -187,3 +162,31 @@ I'm actively seeking roles as:
 ![Visitor Count](https://komarev.com/ghpvc/?username=junaidtyagi9555&color=00D4AA&style=flat-square&label=INFRASTRUCTURE+VIEWS)
 
 </div>
+
+---
+
+## 🧪 **Lab Environment & Experiments**
+
+```yaml
+home_lab:
+  kubernetes_clusters:
+    - name: homelab-k3s
+      nodes: 3
+      purpose: "Learning Service Mesh"
+      tools: ["Istio", "Kiali", "Jaeger"]
+    - name: minikube-dev
+      nodes: 1
+      purpose: "Local Development"
+      tools: ["Skaffold", "Tilt", "Telepresence"]
+    
+  infrastructure:
+    - proxmox_ve: "Virtualization Host"
+    - terraform_cloud: "Remote State & CI"
+    - vault: "Secrets Management"
+    
+  monitoring_stack:
+    - prometheus: "Metrics Collection"
+    - loki: "Log Aggregation"
+    - tempo: "Distributed Tracing"
+
+    
