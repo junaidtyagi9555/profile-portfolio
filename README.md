@@ -13,6 +13,20 @@
 
 </div>
 
+### 🚀 Featured Projects
+
+[![k8s-repo](https://img.shields.io/badge/☸️_Multi-Cloud_Kubernetes-00D4AA?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/junaidtyagi9555/k8s-repo)
+[![Jenkins](https://img.shields.io/badge/🔁_CI/CD_Pipeline_As_Code-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/junaidtyagi9555/Jenkins-repo)
+[![Monitoring](https://img.shields.io/badge/📊_Cloud_Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/junaidtyagi9555/cloud-monitoring)
+[![AWS](https://img.shields.io/badge/🛡️_Secure_AWS_Landing_Zone-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/junaidtyagi9555/aws-landing-zone)
+[![Docker](https://img.shields.io/badge/📦_Container_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/junaidtyagi9555/Docker-Projects)
+
+### ⭐ Starred Projects
+
+[![Stars](https://img.shields.io/github/stars/junaidtyagi9555/k8s-repo?style=social)](https://github.com/junaidtyagi9555/k8s-repo) — **Multi-Cloud Kubernetes**
+[![Stars](https://img.shields.io/github/stars/junaidtyagi9555/Jenkins-repo?style=social)](https://github.com/junaidtyagi9555/Jenkins-repo) — **CI/CD Pipeline as Code**
+[![Stars](https://img.shields.io/github/stars/junaidtyagi9555/cloud-monitoring?style=social)](https://github.com/junaidtyagi9555/cloud-monitoring) — **Cloud Monitoring**
+
 ## 📊 **GitHub Activity**
 
 <div align="center">
